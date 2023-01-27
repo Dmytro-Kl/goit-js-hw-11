@@ -9,7 +9,11 @@
   justify-content: center;
 
   width: 100%;
-  background: linear-gradient(to bottom, #1955f9, #f5f90db5);
+  background: linear-gradient(
+    to bottom,
+    rgb(0, 89, 255),
+    rgba(245, 249, 13)
+  );
 
   padding: 15px 0;
 }
