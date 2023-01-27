@@ -1,0 +1,11 @@
+@import './common';
+@import './header';
+@import './gallery';
+@import './spinner';
+
+body {
+  padding-top: 80px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 25px;
+}
